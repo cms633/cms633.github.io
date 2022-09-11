@@ -1,0 +1,14 @@
+---
+layout: post
+published: true
+category: commentary
+title: >-
+  Reading Assignment - Digital_Humanities - Chapter 1 (Graduates): Daniel
+  Kessler
+author: Daniel Kessler
+tags:
+  - Digital_Humanities
+---
+Rather than occurring as a singular exodus into digital workflows and environments, the digital humanities evolved iteratively and experimentally, over a period of decades, alongside the novel availability of computational resources capable of streamlining and improving these workflows in numerous ways. As described in this chapter, nearly all of the technological evolutions in digital humanities began somewhere else—whether emerging from the games and entertainment industries, the World Wide Web, or GIS technologies—while these technologies were used to supplement and enhance, rather than supplant, more traditional humanistic approaches (e.g., textual analysis). Here, we might consider the digital humanities to be the work of very skilled collage artists. Notably, the humanities traditionally welcome subjective approaches to scholarship, making humanistic scholarship the ideal breeding ground for unified theories of interdisciplinarity in studying human experience through the documentation and analysis of manmade artefacts within digital spaces. The digital humanities may also appear to be an interesting case study for observing how new “standards” emerge within a field of study, because they draw their standards and conditions from other fields as well as from the humanities themselves.
+
+Another significant aspect of the transition from the humanities to digital humanities is the topical and methodological transition from the textual (visual) to the multisensory, while still requiring an ever-evolving understanding of “visual literacy” (20). While most of the subjects and manifestations of digital humanities projects remain visual (words, images, videos and animations, graphical interfaces), others, such as music and recorded audio, are decidedly not. Of course, the humanities have been interested in music as an artefact of human experience for centuries—but the co-mingling of text, images, and audio within single artefacts, today, makes for a particularly interesting and novel area in which to apply humanities-based scholarship, including the integrated field of design, as well as the study of the relationships between these various and distinct sensory modalities. Computation, processing, and network infrastructures have been essential to the success of such scholarly adaptations, and have also brought about significant changes in how humanistic scholarship can be accomplished (e.g., footnoting, indexing). 
