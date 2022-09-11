@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: updates
+title: 'Imaginary Project (Part 1) - From Document to Digital Resource: Daniel Kessler'
+author: Daniel Kessler
+---
+The purpose of this document was to track purchases made by Laban Morey Wheaton between October 4th, 1851 and September 9th, 1854. The document itself does not provide mention of its author, although we may assume that Wheaton himself authored the document for his own bookkeeping needs (we might further review the document for potential references to an external bookkeeper in order to verify this assumption). Based on frequent textual refences to “Boston,” it may be assumed that the document was created in or around the Boston area. The formatting for this book is consistent, with each page having five vertical lines, at slightly varying intervals, to delineate sections specified for month and year, date, textual description of purchase, dollar amounts, and cent amounts. Purchase summaries in this document include the names of people as well as the names of organizations, entities, and products, with occasional additional details (e.g., the number of eggs purchased). Based on the wide variety in expenditure types included in this book, we might assume that this book is a complete, or near-complete, record of Wheaton’s purchases made during the present timeframe (e.g., without bias for inclusion or exclusion of certain kinds of expenditures). This document appears to have been written using a variety of writing instruments (e.g., different stroke widths, varying use of ink or pencil) and in a variety of locations and situations, possibly as and where such expenditures were made.
