@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: updates
+title: 'Imaginary Project (Part 1) - From Document to Digital Resource: Joshua Mbogo'
+author: Joshua Mbogo
+---
+I chose to look through the British War Diaries and as I looked through them it seems that the purpose of the documents was to keep track of events and whereabouts of a particular person or group of people. Alot of the entries are short responses for example “arrived” and “departed''. Accompanying these short responses are columns where an individual can right the place, date, and hour on the left margin of the document that allow individuals reading know how long they stayed at a place or when a certain action was committed. The time range that this specific diary covers is approximately May of 1916 to September of the same year. Due to the objectiveness of the responses, it seems that this document is meant to track the movements of troops and without it military personnels would otherwise not know where their troops are and therefore be unable to find specific groups or people in case of an emergency. Unlike a typical diary, this diary had no anecdotal statements or subjective statements, for this reason, I would say the intended audience is not loved ones but rather military officials. One thing I feel this document is missing is a page which clearly states who is writing this document because right now based on the diary entries I am assuming it is someone who is in command of a group of military personnel and must document their whereabouts and actions.
