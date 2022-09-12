@@ -1,9 +1,11 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: 'Reading Assignment - Digital_Humanities - Chapter 1 (Graduates): Qingyu Cai'
 author: Qingyu Cai
+tags:
+  - Digital_Humanities
 ---
 Chapter one of this book introduces digital humanities as a new field but still emphasizes the importance of humanities. As a designer with experience in spatial and interface design, I am attracted by the part where the author elaborates on the importance of design as an intellectual method in digital humanities. It seems that design serves as a tool to manage the team, shape the arguments, and express the contents in this team project-based process. And such key roles are actually what designers have learned while receiving training. Design is not just a noun but also a verb. We learn not only how to create a design but also design. However, without teamwork with people from diverse backgrounds, we will never know the power of design. And this is what digital humanities has taught us in its process.
 
