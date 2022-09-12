@@ -1,0 +1,13 @@
+---
+layout: post
+published: true
+category: commentary
+title: 'Reading Assignment - Digital_Humanities - Chapter 1 (Graduates): Xiaofan Ye'
+author: Xiaofan Ye
+tags:
+  - Digital_Humanities
+---
+The last chapter is very inspiring, "Generative Humanities as the New Core." It talks about how the digital environment offers expanded possibilities for exploring multiple approaches to what constitutes knowledge and what methods qualify as valid for its production. It echoes to me how digital technologies have made education accessible in so many various media and forms that we never imagined before. For example, in the past, I would never associate learning with playing games or watching videos. However, there are many new forms of learning through interactive games and videos that teach kids about traditional subjects of Math and Science. They are not just more engaging and for kids to generate motivation and passion, but also more effective through sound and videos for kids to understand. Learning and playing games have been integrated to create new practices in education.
+Furthermore, digital technologies also made education more accessible. People don't need to attend Ivy League to listen to great lectures; many great courses from universities are available to learn on platforms like Coursera. People with skills can also exchange and share on platforms like Skillshare to maximize learning experiences. Moreover, digital environments also generate new ways of perceiving the world. For example, Teamlab's digital art creates immersive visual and acoustic experiences and redefines the relationship between people and the world, making us rethink ourselves and nature through art.
+ 
+Another chapter that strikes me a lot is about the value of failure in the digital humanities process, " Building on a key aspect of design innovation, Digital Humanities must have, and even encourages, failures." This contrasts with other subjects like Science and Art, which pursues perfection or accuracy. Digital Humanities's encouragement of failure emphasizes the iterative and testing process and doesn't let go of any great idea that seems impossible. It reminds me of Theranos' fraud case in Silicon Valley; although a failure, digital technologies also bring out biotechnology's convenient future. Furthermore, some startups are testing AI-related medical devices that allow patients to diagnose their illnesses at home, transforming the healthcare experience to be more convenient, accessible, and delivered seamlessly.
