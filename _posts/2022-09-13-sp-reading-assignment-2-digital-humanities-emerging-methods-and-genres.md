@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: >-
   SP Reading Assignment 2- Digital Humanities - Emerging Methods and Genres by
