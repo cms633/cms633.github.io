@@ -1,10 +1,13 @@
 ---
 layout: post
 published: true
-category: updates
+category: commentary
 title: >-
   SP Reading Assignment 2- Digital Humanities - Emerging Methods and Genres by
   Omozusi Guobadia
+tags:
+  - Digital_Humanities
+author: Omozusi Guobadia
 ---
 ### _Scale: The Law of Large Numbers_
 A. It is an interesting conundrum that is brought as we transition from traditional humanities to digital humanities; as the author suggests, there is abundantly more humanitarian works to sift through and analyze. The law of large numbers usually yields a better, unbiased understanding of the hypothesis as the data goes towards the true mean, or rather in the case of humanitarian research the “objective” truth.
