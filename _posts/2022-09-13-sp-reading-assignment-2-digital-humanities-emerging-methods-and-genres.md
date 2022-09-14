@@ -2,7 +2,9 @@
 layout: post
 published: false
 category: updates
-title: SP Reading Assignment 2- Digital Humanities - Emerging Methods and Genres
+title: >-
+  SP Reading Assignment 2- Digital Humanities - Emerging Methods and Genres by
+  Omozusi Guobadia
 ---
 ### _Scale: The Law of Large Numbers_
 A. It is an interesting conundrum that is brought as we transition from traditional humanities to digital humanities; as the author suggests, there is abundantly more humanitarian works to sift through and analyze. The law of large numbers usually yields a better, unbiased understanding of the hypothesis as the data goes towards the true mean, or rather in the case of humanitarian research the “objective” truth.
@@ -13,4 +15,3 @@ A. The way the author describes the **knowledge production** being a collaborati
 B. Similarly, the author illustrates that **performative access** illustrates the ability for the audience to engage with the knowledge/content curated through multiple digital platforms. Through the digital age, the author asserts that the information overload will have a way of uniting multiple audiences together, forming an almost collective, intelligent reader capable of making analyses over the revised work. The author suggests that the act of viewing the living body of work is itself a performance, which I don’t know how much I agree with the notion that reading and writing a body of work are in the same category; if, however, the knowledge is somehow proven to be interpreted and absorbed by the reader, one can then have the conversation that the acts are somewhat identical.  
 
 _Written by Omozusi Guobadia_
-
