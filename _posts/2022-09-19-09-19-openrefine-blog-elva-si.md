@@ -14,4 +14,4 @@ Through the plays.csv exploration, I can tell that comedy was the most popular f
 Some of my interesting findings are:
 1. Register number was above 200 in Jan and Feb. 
 2. 91 days have a register number below or equal to 10 people. The register number may not be affected by weekday/weekend because the data was evenly distributed through Monday-Sunday.
-3. Yet, the register number was affected by seasons. April was the dull season because it had low register number in general. The beginning days of May, June, July, August, September, and October were also off-season because they all had the lowest register number-1. 
+3. Yet, the register number was affected by seasons. April was off-season because it had low register number in general. The first day of May, June, July, August, September, and October were also dull days because they all had the lowest register number-1.
