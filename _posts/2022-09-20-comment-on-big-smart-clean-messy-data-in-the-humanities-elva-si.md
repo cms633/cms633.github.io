@@ -4,8 +4,6 @@ published: true
 category: commentary
 title: Comment on Big? Smart? Clean? Messy? Data in the Humanities- Elva Si
 author: Elva Si
-tags:
-  - Digital_Humanities
 ---
 **Christof Schöch: Big? Smart? Clean? Messy? Data in the Humanities**
 
