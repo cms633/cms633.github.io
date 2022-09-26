@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Comment on Humanities Approached to Graphical Display
+title: Comment on Humanities Approached to Graphical Display-Elva Si
 author: Elva Si
 ---
 This article significantly challenges my understanding of data visualization as it brings up a new humanistic approach to construct and interpret graphical displays. I consider data as intrinsically quantitative - self-evident, value neutral, and observer independent. While individuals may intrepret a bar chart, a pie chart, or many other commonly known visualized data graphs in their own way, the graphs usually communicate a concrete meaning that the author intended to convey. But, as Drucker mentioned, this belief excludes the possibilities of conceiving data as qualitative, co-dependently constituted.It is not easy for me, and maybe for most of us, to accept the ambiguity of knowledge, the fundamentally interpreted condition on which data is constructed. Data is capta.
