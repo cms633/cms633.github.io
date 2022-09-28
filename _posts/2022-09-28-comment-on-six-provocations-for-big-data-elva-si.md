@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Comment on Six Provocations for Big Data-Elva Si
 author: Elva Si
