@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Reading Response to 6 Provocations
 author: Danny Kessler
