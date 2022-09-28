@@ -3,6 +3,7 @@ layout: post
 published: true
 category: updates
 title: 'Final Project Initial Idea _ Li '
+author: Li Zhou
 ---
 ## a. Problem Statement/Research Question
 The aim of this project is to provide gay visitors to the new city with information about indexes of queer-friendly and schedules about local queer events. As queer visitors do not know the local culture in a new city and do not know how much of their identity they should reveal, the queer friendly index is provided. Besides, for those who wish to participate in local queer events in China, there is no official and visible notification, but rather an underground, small-group exchange of information. In order to facilitate the exchange, local queers can also utilize this application and contribute to the expansion of the overall database.
