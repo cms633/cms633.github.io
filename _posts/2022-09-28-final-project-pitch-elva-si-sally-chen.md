@@ -15,7 +15,7 @@ We are planning to query RapidAPI or other forms of API to extract data, and we 
 
 Some database that we already found are:
 - [Women in headlines]([https://github.com/the-pudding/data/tree/master/women-in-headlines](https://github.com/the-pudding/data/tree/master/women-in-headlines)) [github] 
-- [Marvel Comic API](https://comicvine.gamespot.com/api/): 
+- [Marvel Comic API](https://comicvine.gamespot.com/api/)
 - [Spotify Lyrics API]( https://developer.spotify.com/documentation/web-api/)
 
 **Audience: Who is the intended audience for your project? General public, scholars, students (field/level), etc.**
