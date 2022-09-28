@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Comments on Six Provocations of Big Data
 author: Sophia Pineda
