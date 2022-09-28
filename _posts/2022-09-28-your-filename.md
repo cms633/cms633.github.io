@@ -7,7 +7,7 @@ author: Xiaofan Ye
 tags:
   - The Database
 ---
-CMS633 reading big data
+
 
 
 The article elaborated on the possible impacts and implications the Big Data phenomenon might have on our life. 
