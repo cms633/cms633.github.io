@@ -15,8 +15,8 @@ c. Audience:
 Queer visitors and local queers in China
 
 d. Inspirations:
-China Social Media: Weibo(Chinese Twitter), WeChat
-Current Queer related app: Spartacus Gay Guide https://spartacus.gayguide.travel/
+China Social Media: Weibo(Chinese Twitter), WeChat;
+Current Queer related app: Spartacus Gay Guide https://spartacus.gayguide.travel/;
 Queer Index report: Healthcare Equality Index https://www.hrc.org/resources/healthcare-equality-index
 
 e. Skills needed:
