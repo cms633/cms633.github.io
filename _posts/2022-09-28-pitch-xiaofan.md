@@ -16,17 +16,17 @@ Which country/region has the worst situation
 Which ethnicity and age group is facing it 
 possible criteria: minimum wage, loan requirements, working hours, training opportunities, overtime pay, maternity leave, PTO, firms with female leadership, etc
 
- b. Data Sources:
+b. Data Sources:
 International Labor Organization 
 Key Indicators of the Labour Market
 
- c. Audience: 
+c. Audience: 
 Girls' parents, female employees, employers, HRs, NGOs, the general public
 
- d. Inspirations: 
+d. Inspirations: 
 https://www.nytimes.com/interactive/2014/04/24/upshot/facebook-baseball-map.html5,36.789,-95.506
 
- e. Skills needed: 
+e. Skills needed: 
 Programming(javascript, HTML, python), design (web design, app design), GIS
 
 
@@ -39,13 +39,13 @@ gender distribution change among patients
 which country performed most plastic surgeries
 possible criteria: gender, body parts, cost, and number of surgeries, etc
 
- b. Data Sources: 
+b. Data Sources: 
 https://www.plasticsurgery.org/news/plastic-surgery-statistics
 
- c. Audience:
+c. Audience:
 people who want to have plastic surgeries, doctors and surgeons, the general public
 
- d. Inspirations: 
+d. Inspirations: 
 https://vividmaps.com/most-searched-plastic-surgery/
 https://www.caliper.com/featured-maps/maptitude-plastic-surgeons-county-map.html
 
