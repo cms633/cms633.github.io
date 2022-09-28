@@ -29,6 +29,7 @@ General public who are interested in knowing more about how genders are represen
 
 
 **Skills needed: What are the skill sets needed to develop a digital prototype for your project? Programming, design, research, etc.**
-Data extraction (APIs) 
-Web Design 
-Visualization tools
+- Data extraction (APIs) 
+- Web Design 
+- Visualization tools
+
