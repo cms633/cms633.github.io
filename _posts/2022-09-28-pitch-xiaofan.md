@@ -6,7 +6,7 @@ title: 'Pitch_Xiaofan '
 author: Xiaofan Ye
 ---
 
-**Idea 1. Workforce Gender inequality**
+## **Idea 1. Workforce Gender inequality**
 
 **a. Problem Statement/Research Question** 
 The research aims to address the gender inequality women faced in the workforce across different industries and countries during the past 20 years. Through data visualization, it will be an interactive Html and iPhone application to present gender unfairness, raise awareness and encourage more female participation in the workforce. (For this course, the study will focus on datasets in the united states/China.)
@@ -31,10 +31,12 @@ https://www.nytimes.com/interactive/2014/04/24/upshot/facebook-baseball-map.html
 Programming(javascript, HTML, python), design (web design, app design), GIS
 
 
-**Idea 2. Plastic Surgery & beauty standards**
+
+## **Idea 2. Plastic Surgery & beauty standards**
 
 **a. Problem Statement/Research Question**
 The research aims to understand the attitudes and perception changes towards plastic Surgery across countries during the past 20 years.
+
 Potential research questions: 
 Which body part for Surgery is most popular among patients
 gender distribution change among patients
