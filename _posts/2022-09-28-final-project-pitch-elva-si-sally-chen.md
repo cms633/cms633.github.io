@@ -27,4 +27,6 @@ General public who are interested in knowing more about how genders are represen
 [The physical traits that definemen & women in literature](https://pudding.cool/2020/07/gendered-descriptions/)
 
 **Skills needed: What are the skill sets needed to develop a digital prototype for your project? Programming, design, research, etc.**
+Data extraction (APIs) 
 Web Design 
+Visualization tools
