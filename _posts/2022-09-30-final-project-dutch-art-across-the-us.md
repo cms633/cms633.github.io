@@ -49,7 +49,14 @@ Worcester
 LACMA
 [https://collections.lacma.org/](https://collections.lacma.org/)
 
-Audience: 
-Inspirations: 
-Skills needed:
+**Audience: **
+Art historians, scholars of dutch art, art students, museum curators, donors, interested general audience
+
+**Inspirations:**
+THE RIJKSMUSEUM in Amsterdam, arguably one of the best art (web) sites: https://www.rijksmuseum.nl/en
+
+**Skills needed:**
+Compuational skills: Web scraping, API access, database, JavaScript, CSS, etc.
+Design Skills: innovative UI/UX, data representation, visialization, focus on user interaction
+Data Skills: research, metadata & cleanup
 
