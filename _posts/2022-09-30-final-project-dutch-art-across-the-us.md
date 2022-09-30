@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: 'Final Project: Dutch Art Across the US'
 author: Kurt Fendt
