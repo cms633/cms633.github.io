@@ -10,7 +10,7 @@ author: Kurt Fendt
 **Problem Statement/Research Question:**
 Dutch Art collections exist at many museums, large and small, in private collections and at other sites in the US. However, it is currently impossible to obtain a comprehensive overview of, let alone digital access to all holdings of Dutch art in the US. How can we create an innovative online collection of Dutch art in the US?
 
-Data Sources: There are a number of online collections but they all provide different structures of metadata, image versions of the art work, and access policies. Some information only exists on comouters at Museums and collections and is not yet accessible on the Internet. Here's a list of some collections:
+**Data Sources:** There are a number of online collections but they all provide different structures of metadata, image versions of the art work, and access policies. Some information only exists on comouters at Museums and collections and is not yet accessible on the Internet. Here's a list of some collections:
 
 RID – National Institute for Art History in The Hague, Netherlands. As an example.
 [https://rkd.nl/nl/explore/images](https://rkd.nl/nl/explore/images)
