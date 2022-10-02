@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 7_ Data Scholarship in the Humanities _ Li
+author: 'Li Zhou '
+tags:
+  - Digital_Humanities
 ---
 The first important thought I have about data is that "**size matters**" and I also believe that access is crucial, as there are few archaeologists and anthropologists, and thus few data are collected. I believe that the primary purpose of digital data is to classify and organize the information, as well as to find the relevant pattern or use the data to support certain theories; however, if the collected data is insufficient, it will be unable to find the pattern and will impede the development of related disciplines. In my final project, I believe there are enough samples to generate data, but there is insufficient personnel for systematic research and collection, resulting in a small database; I also believe that in addition to size, accessibility is extremely important. Without access to the data, it is impossible for scholars to collect and analyze the data. Access to public data is particularly difficult in China due to government restrictions and a lack of relevant sharing platforms. 
 
