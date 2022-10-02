@@ -53,7 +53,7 @@ LACMA
 Art historians, scholars of dutch art, art students, museum curators, donors, interested general audience
 
 **Inspirations:**
-THE RIJKSMUSEUM in Amsterdam, arguably one of the best art (web) sites: https://www.rijksmuseum.nl/en
+THE RIJKSMUSEUM in Amsterdam, arguably one of the best art (web) sites: [https://www.rijksmuseum.nl/en](https://www.rijksmuseum.nl/en)
 
 **Skills needed:**
 Compuational skills: Web scraping, API access, database, JavaScript, CSS, etc.
