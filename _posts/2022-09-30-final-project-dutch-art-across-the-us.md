@@ -60,3 +60,4 @@ Compuational skills: Web scraping, API access, database, JavaScript, CSS, etc.
 Design Skills: innovative UI/UX, data representation, visialization, focus on user interaction
 Data Skills: research, metadata & cleanup
 
+**Note:** This project is part of a collaboration with the Museum of Fine Arts, Boston.
