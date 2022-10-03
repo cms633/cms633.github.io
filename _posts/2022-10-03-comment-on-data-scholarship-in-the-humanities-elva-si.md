@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Comment on Data Scholarship in the Humanities-Elva Si
+author: Elva Si
 ---
 I was intrigued by the idea of humanistic data focus on interpretation and reinterpretation. This is an idea that penetrates throughout our course. Drucker (2010) once mentioned that knowledge as interpretation. The apprehension of the phenomena of the physical, social, cultural world is through constructed and constitutive acts, not representations of pre-existing or self-evident information. Humanistic knowledge and data is so special that we cannot compare it directly with scentific data. It can be physical, digital, or digitized. It can have surrogate or complete content, static images or searchable representations. I like Borgman's statement that "the Higg's boson can be discovered only once, but Shakespare's Hamlet can be reinterpreted repeatedly." 
 
