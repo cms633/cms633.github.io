@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: commentary
 title: Assignment 2_Li Zhou
 author: Li Zhou
 tags:
