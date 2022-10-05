@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Assignment 8_Generous Interfaces
+title: Assignment 8_Generous Interfaces_Li
 author: Li Zhou
 tags:
   - Digital_Humanities
