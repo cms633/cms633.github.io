@@ -1,0 +1,9 @@
+---
+layout: post
+published: true
+category: commentary
+title: Assignment 8-reading-sally chen
+author: Sally Chen
+---
+In common interface design, designers usually pursue simplicity as the standard, which may not be appropriate in the context of digital collections. We are used to google's home page being an empty picture, directly from the search box to start. For the digital archival collection website, it is necessary to consider how individuals can access various information, just like the experience of browsing a museum.
+Interface design needs to consider the balance of browsing and searching. Just like a person who chooses to go to an art museum - which means he has certain expectations of what he will see - he will see some artwork, specifically what genre it might be, or what theme it might have. In addition, the visiting experience is not only about the expected information but also about the "unintended" gain of information, such as other objects displayed in the same window with the "searched result". In a digital archival collection, the interface designer needs to consider what factors to use as guides to help visitors find the "expected" works, and what can be displayed in the same window for generosity. In addition to the works that share commonalities, it is important to consider how to present a variety of different works through appropriate design so that the viewer can receive new information without the feeling of an "information explosion". One possible way is randomly exposing all kinds of work in the collection to the audience. For example, designers can use a certain area of the initial page to display the names of some display objects, and the names will be changed every time the website is refreshed.
