@@ -18,5 +18,3 @@ There is almost no context, so people are confused after reading and do not unde
 No high definition scans, no editable attachments, etc. Some works have only a blurred screenshot of the webpage, so it is impossible to read the information on it.
 
 
-
-Translated with www.DeepL.com/Translator (free version)
