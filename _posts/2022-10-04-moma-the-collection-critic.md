@@ -16,4 +16,3 @@ There is no information about samples and no contextual clues to encourage peopl
 There is almost no context, so people are confused after reading and do not understand any background information or story about the work.
 5. Share high quality primary content. 
 No high definition scans, no editable attachments, etc. Some works have only a blurred screenshot of the webpage, so it is impossible to read the information on it.
-
