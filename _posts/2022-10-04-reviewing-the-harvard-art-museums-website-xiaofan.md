@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: ext-projects
 title: Reviewing the Harvard Art Museums website_Xiaofan
+author: Xiaofan Ye
 ---
 
 Reviewing the Harvard Art Museums website with Whitelaw's principles
