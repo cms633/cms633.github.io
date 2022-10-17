@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Comments on Narratives of Time and Space_Elva Si
 author: Elva Si
