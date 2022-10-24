@@ -1,0 +1,8 @@
+---
+layout: post
+published: true
+category: commentary
+title: Assignment 12_Spatial Humanities
+author: Li Zhou
+---
+The abbreviation "GIS" stands for "geographic information system," and it refers to a system that can create, manage, analyze, and map different kinds of data. The Geographic Information System (GIS) links data to maps by combining location data (which specifies where things are) with various kinds of descriptive information (how things are at that location). This can serve as the foundation for mapping and analysis that can be used to the natural sciences as well as virtually every industry. Users of GIS gain a better understanding of patterns, linkages, and spatial surroundings through the usage of the tool. For example, Walgreens has more than 8,000 stores, and Esri has been assisting Walgreens in using location intelligence to share data and make more informed decisions. These decisions include everything from managing the merchandise that is stocked on the company's shelves to selecting locations for new stores. Walgreens created WalMap, an advanced geographic information system, to investigate potential locations for additional stores. Because they have access to spatial information, their staff is able to use and share data on any device, at any time. However, the paper also claims that the GIS material does not explain how or why it emerged, and instead favors official representations of the world. This is a conclusion that was extremely troublesome due to the fact that this view mirrors the impact that money and power have.
