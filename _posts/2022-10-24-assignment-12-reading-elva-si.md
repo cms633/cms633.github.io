@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Assignment 12_Reading_Elva Si
 author: Elva Si
