@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-category: updates
+category: commentary
 title: Assignment 12_Reading_Elva Si
+author: Elva Si
 ---
 GIS (Geographic Information System) provides quantitative precise data to better understand the location information. It is a powerful tool for spatial visualization in many scientific projects. It could also be used to relate data of different formats based on their common location, at times for historians to bring spatial and archival evidence together while allowing readers to explore the evidence afresh. 
 
