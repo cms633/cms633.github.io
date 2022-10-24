@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: Spatial Humanities Commentary
 author: Sophia Pineda
+tags:
+  - Spatial Humanities
 ---
 
 In "The Potential of Spatial Humanities," GIS is shown to be a very powerful tool that is able to visualize data within a spatial context. It is able to very accurately create a statistical analysis from quantitative data in ways that humanistic research methods cannot. However, by doing this, GIS falls behind in representing the world as more than just mapped locations. As stated in the reading, "It assumes that objects exist independently of the observer." The world that GIS maps does not represent the community community of the location it is mapping, making it much less desirable for humanistic researchers. 
