@@ -1,0 +1,19 @@
+---
+layout: post
+published: true
+category: updates
+title: David Bodenhamer’s “The Potential of Spatial Humanities”
+author: Danny Kessler
+tags:
+  - Spatial Humanities
+---
+David Bodenhamer’s “The Potential of Spatial Humanities”
+
+Take-away advantages and disadvantages of GIS:
+- We no longer see space as limitless, the world as filled with available “wild” spaces for us to tame and make ours. The development of GIS allows us to observe and reflect on the relationships between different kinds of spaces, however, in new ways.
+- GIS allows us to see the world in a layered fashion – we can view just the borders between nations, just the cities, just the roads, just the forests, just the oceans, or we can see all of it simultaneously or as unique combinations of layers to examine particular interactions in space and over particular timescales. 
+- One of John Pickles’ arguments against GIS was that GIS isn’t capable of understanding societal complexity. But it’s not the tool itself that is problematic, but the people who use it, and who don’t consider cultural dimensions, or those that can’t be seen using the tool. Like with other visualizations of data discussed in prior readings, we see, here, a push-back against technologies that visualize the world in quantitative ways that might be considered, by some, to be objective measures of reality. But I don’t see it as problematic that some features of our worlds are, in fact, objective: “there is a river there; it goes for 12 miles before a steep basin; after the basin there is a small town where the people specialize in crafting wagons.” If it’s a tool that allows us to see the world in new ways, I don’t believe it introduces any true risk into the world that was not there before. Like any tool, it can be used for good and it can be used for evil. But I don’t believe its caustic uses outweigh its beneficial ones. 
+- In the humanities, spaces can also be imagined, metaphorical, or transient. They can exist for just one person at just one time, or for many people at many times but within the same geographic space. The concept of space, in the humanities, is in part challenged by the existence of GIS technologies that may “claim” objectivity. I see this as a shortcoming of GIS, but only insofar as GIS was not designed to observe or represent non-literal or non-physical spaces.
+- GIS technologies provide particular benefits for archaeologists, for whom the objectivity of GPS was particularly important to their examination of human histories and experiences. The same was true for historians. Perhaps it was those humanists who were most concerned with imagined spaces, imagined events, or individualized perceptions of space and time, took the greatest issue with GIS. But even if these scholars did want to use GIS, they might be prevented by doing so simply because of the costs of these tools. 
+- The use of Deep Maps seems particularly interesting and useful, and as a complex compromise and improvement, since they are “structurally open” and “genuinely multimedia and multilayered,” such that they are non-authoritative and integrative of multiple viewpoints and perspectives–which seems to me to be the primary theoretical issue with the use of GIS in the humanities.
+- I am a fan of the central thesis of this piece, as I see it, which also embodies the key benefits of these technologies: that “a humanities GIS-facilitated understanding of society and culture may ultimately make its contribution in this way, by embracing a new, reflexive epistemology that integrates the multiple voices, views, and memories of our past, allowing them to be seen and examined at various scales; by creating the simultaneous context that we accept as real but unobtainable by words alone; by reducing the distance between the observer and the observed; by permitting the past to be as dynamic and contingent as the present.”
