@@ -14,3 +14,5 @@ The information we collected is made into an excel: https://docs.google.com/spre
 The difficulties we have is:
 1. The image is not showing. We tried attaching URL and also the image itself in the excel, but it is not working either way.
 2. It can't show the events happened in B.C. It just ignored everything happened before then.
+
+
