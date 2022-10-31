@@ -3,6 +3,7 @@ layout: post
 published: true
 category: updates
 title: Palladio Experience
+author: Luna Do
 ---
 I used Palladio to analyze Melville's travels in London. I was not able to successfully do so, however, due to my limitations of understanding how to use the software. I was able to get some points on the map visualization tool but the timeline and the facet display wasn't really working despite my best attempts to clean up the data and make it work. This is probably user error on my end I think. 
 
