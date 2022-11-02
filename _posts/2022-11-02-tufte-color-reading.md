@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: 'Tufte Color Reading '
+author: Luna Do
 ---
 ![079AC262-62FE-4467-B377-784F59E26C50.webp]({{site.baseurl}}/assets/079AC262-62FE-4467-B377-784F59E26C50.webp)
 
