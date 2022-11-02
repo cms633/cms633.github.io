@@ -5,7 +5,9 @@ category: commentary
 title: 'Tufte Color Reading '
 author: Luna Do
 ---
-![079AC262-62FE-4467-B377-784F59E26C50.webp]({{site.baseurl}}/assets/079AC262-62FE-4467-B377-784F59E26C50.webp)
+
+![D4459CC4-379A-49ED-98C5-F81F41006B27.webp]({{site.baseurl}}/assets/D4459CC4-379A-49ED-98C5-F81F41006B27.webp)
+
 
 Tufte's first rule states that 
 > Pure, bright or very strong colors have loud, unbearable effects when they stand unrelieved over large areas adjacent to each other, but extraordinary effectscan be achieved when they are used sparingly on or between dull back- ground tones.
