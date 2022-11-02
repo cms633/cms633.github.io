@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 15_Elva Si
+author: Elva Si
 ---
 > First rule: Pure, bright or very strong colors have loud, unbearable effects when
 they stand unrelieved over large areas adjacent to each other, but extraordinary
