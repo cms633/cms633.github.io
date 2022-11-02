@@ -2,10 +2,10 @@
 layout: post
 published: true
 category: commentary
-title: Tuft Color Reading & Example(s)
+title: Tufte Color Reading & Example(s)
 author: Daniel Kessler
 ---
-Although I was also very interested in Tuft's second and third rules, I chose Tuft's first rule to examine here. This rule states that "pure, bright or very strong colors have loud, unbearable effects when they stand unrelieved over large areas adjacent to each other, but extraordinary effects can be achieved when they are used sparingly on or between dull background tones." 
+Although I was also very interested in Tufte's second and third rules, I chose Tufte's first rule to examine here. This rule states that "pure, bright or very strong colors have loud, unbearable effects when they stand unrelieved over large areas adjacent to each other, but extraordinary effects can be achieved when they are used sparingly on or between dull background tones." 
 
 In my example, I extracted a dataset from Reddit of posts referencing different locations in and around Ukraine (e.g., Kyiv) during the two weeks prior and following the start of the Russia-Ukraine conflict of 2022 (Feb 12 - Mar 12, 2022). 
 
