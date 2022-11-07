@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Drucker & W.E. DuBois
 author: Luna Do
