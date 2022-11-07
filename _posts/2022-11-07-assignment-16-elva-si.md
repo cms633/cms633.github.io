@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 16_Elva Si
+author: Elva Si
+tags:
+  - Cartographies of Time
 ---
 Drucker discussed the importance of graphesis as a means and an object of study. It should not be  a simple display of data and information. This article reminded me of Drucker's other article _Data as Capta_ where she also argued on the statistical representations of data as subjective interpretations. While it was challenging for me to accept the ambiguity of knowledge, the fundamentally interpreted condition on which data is constructed several classes ago, I become more comfortable to view graphic expressions as acts of interpretation or arguments. They can be ambiguous, inferencing, and of qualitative judgments, not just statements and presentations of facts.
 
