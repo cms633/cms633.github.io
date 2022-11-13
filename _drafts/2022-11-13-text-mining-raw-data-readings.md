@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: Text Mining & Raw Data Readings
 author: Daniel Kessler
+tags:
+  - Digital_Humanities
 ---
 **Notes on Text Mining Readings:**
 
