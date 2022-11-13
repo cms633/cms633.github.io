@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Assignment 18- reading 1- Sally Chen
+title: Assignment 18- data mining- Sally Chen
 author: Sally Chen
 ---
 Data mining is the process of discovering patterns in data, and the main approaches include clustering, association, word cloud, etc. These methods are based on the results of human cognitive science research that has been conducted, and common human cognitive strategies are simulated by computer algorithms. I think the similarities between the algorithms and human cognitive strategies are the reason they stand out as the most commonly used methods- because the algorithms are more likely to come out with "human-like" insights and decisions. However, the results of data mining are necessarily different from the results of human thinking, especially when academia has not yet fully researched the psychological mechanisms of more complex psychological processes, e.g. common sense and creativity.
