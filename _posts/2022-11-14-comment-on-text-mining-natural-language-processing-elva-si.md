@@ -1,0 +1,10 @@
+---
+layout: post
+published: true
+category: commentary
+title: Comment on Text Mining / Natural Language Processing_Elva Si
+author: Elva Si
+---
+discuss how these text mining approaches have become a standard in today’s computational techniques in processing texts and the potential (and the shortcomings) that were envisioned but not necessarily have been realized or superseded by novel/different approaches.
+
+I still remembered the very first class when we talked about identifying the same word being used across different editions of Shakespeare's work over decades. Now I know such activity as the text mining approach. It could help humanists link extracted textual information from different written resources to form new facts or hypotheses. I think this is a powerful approach since it allows researchers, scholars, experts, and more to look beyond single resources, enable a comprehensive view, and discover new patterns. I like the example Hearst (2003) used regarding using text to form hypotheses about diseases. While doctors can only read a small set of literature in their particular field, it would be beneficial if text mining, this conputational technique to process texts over a much larger pool of literature, could be used to search across different medical fields and help generate new, potentially plausible medical hypothesis, alongside the doctors' medical expertise. I can imagine the scope of impact if such approach could be widely utilized in the medical industry. I also believe in such approaches to produce large impact in more fields, including but not limited to academia, news report, history. Yet, , the text mining approach will also face several challenges. Out of all challenges, "information one need is often not recorded in textual form" is what I considered the most prominent one. In an increasingly digitalized world, important information will be documented beyond texts; in videos, podcasts, and spoken conversations. How could computitional techniques access and interpret these non-textual formats? How could technologies help people examine both textual and non-textual information altogether?  
