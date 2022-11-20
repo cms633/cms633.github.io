@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Untitled
+title: Assignment 20
 author: Xiaofan Ye
 ---
 "So the Colors Cover the Wires": Interface, Aesthetics, and Usability by Matthew G. Kirschenbaum
