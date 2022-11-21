@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Comment on So the Colors Cover the Wires_Elva Si
+author: Elva Si
 ---
 > The "secret" of interface design is to "make it go away.” -- Nicholas Negroponte
 
