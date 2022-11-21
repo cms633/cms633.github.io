@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: 'So the Colors Cover the Wire - Assignment 20 '
+author: Luna Do
 ---
 
 > If there is a lesson here for the digital humanities it is simply this: just as interface cannot – finally – be decoupled from functionality, neither can aesthetics be decoupled from interface.
