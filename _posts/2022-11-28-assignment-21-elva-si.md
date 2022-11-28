@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 21_Elva Si
+author: Elva Si
 ---
 > The visualization of cultural collections, shouldn’t aim at reproducing and consolidating the hegemonic claims of archives, but rather invite the viewer to critically question what is being viewed and the circumstances of its creation.
  
