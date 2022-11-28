@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: Assginment 21
+title: Assginment 21_Xiaofan
 author: Xiaofan Ye
 ---
 The research proposed an innovative approach -- a generative system to rethinking the data visualization process. It argues that the visualization of cultural archives is objective and biased in its traditional research process, as the researcher might prioritize certain viewpoints based on the socio-cultural conditions at that time. The generative approach would bridge the gaps in the archive process; it would also democratize the 'sole decision-making power of the archives in the formation of cultural heritage.'
