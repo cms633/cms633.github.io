@@ -1,0 +1,9 @@
+---
+layout: post
+published: true
+category: commentary
+title: Reading Assignment 22 - Qingyu Cai
+author: Qingyu Cai
+---
+Mike Featherstone's 2006 overview of the history and the nature of the "Archive" reminds me of the feature of data accessibility. There are inequalities in both data and archives, strongly affected by power and right. The questions of who makes the history and the extent to which there should be wider access to those who seek to search out counter-histories remind us of the correctness and origin of archives. Less powerful nations are also less potent in maintaining their own archives. For instance, nowadays, we can see that in some countries' museums, some archives and preservations originated from other countries. How and why are they here instead of in their mother countries? Furthermore, some archives can also be destroyed for various reasons, such as wars, natural disasters, artificial damages, etc. The archive itself can not only be regarded as a form of documentation but also a process of history. It is critical to look into what is documented as the archive's content, while it is another interesting story to view the change of the archive itself as the research object. 
+The second takeaway from this week's readings is about archiving media art. How to archive media art exists a series of questions worth discussing. The feature of media art determines the answer to the question of how to archive media art. Current solutions include objects, pictures, and artifacts, while electronic communication is based on time. The archive forms of media art cannot reflect in-time communication and resist archiving. Besides, some media arts are instantaneous art, and do they need archiving? So, the main questions for archiving media art include the archiving forms and the necessity of doing so.
