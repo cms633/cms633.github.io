@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
-category: updates
+published: true
+category: commentary
 title: Assignment 22 Comment_Elva Si
+author: Elva Si
 ---
 This week's readings broaden my understanding of what "archives" mean. In the traditional sense, archives can help to discover historical records and truths that have been hidden or lost. Based upon what are archived and how they are stored, future generations may come up with a completely different interpretation of the past compared with the reality or they may be limited to search out counter-histories. 
 
