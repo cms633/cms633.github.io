@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Reading responses to Featherstone & Ernst (Data Archives)
 author: Daniel Kessler
