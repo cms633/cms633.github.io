@@ -20,4 +20,4 @@ author: 'Sophia Pineda, Luna Do'
 
 ## Figma link
 
-[Flow 2](https://www.figma.com/proto/G4aZ71gB8qpY1Ew1lIilRc/12%2F7-Update?node-id=258%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=258%3A4&show-proto-sidebar=1)
+[Final](https://www.figma.com/proto/G4aZ71gB8qpY1Ew1lIilRc/12%2F7-Update?node-id=258%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=258%3A4&show-proto-sidebar=1)
