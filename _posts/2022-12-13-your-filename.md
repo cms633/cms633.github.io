@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: updates
-title: Dutch Art Project Update
+title: Project Update
 author: Qingyu & Xiaofan
 ---
 Link to Presentation: [Presentation Slides](https://docs.google.com/presentation/d/1QVQmO-ZozkIZKYWphkSx2X6DABg1ezqWGMwVuj_wwx4/edit?usp=sharing)
