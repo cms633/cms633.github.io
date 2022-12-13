@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
-title: Untitled
+title: Project Update
+author: Qingyu & Xiaofan
 ---
 Link to Presentation: [Presentation Slides](https://docs.google.com/presentation/d/1QVQmO-ZozkIZKYWphkSx2X6DABg1ezqWGMwVuj_wwx4/edit?usp=sharing)
 
