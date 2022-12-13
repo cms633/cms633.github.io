@@ -2,8 +2,10 @@
 layout: post
 published: false
 category: updates
-title: ''
+title: Untitled
 ---
-## A New Post
+Link to Presentation: [Presentation Slides](https://docs.google.com/presentation/d/1QVQmO-ZozkIZKYWphkSx2X6DABg1ezqWGMwVuj_wwx4/edit?usp=sharing)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Link to Figma:[Figma Link](https://www.figma.com/file/ZnZ3I5R659PDqU9IlSU2f8/Prototype?node-id=24%3A2&t=cwJBJHsu4TY4seQ2-1)
+
+Link to Anima: [Anima Demo Link](https://tiny-bird-4987.animaapp.io/landing-page?r=1&p=BZe7l43&h=landing-page&pages=WyJpbmRpdmlkdWFsLWNvbGxlY3Rpb244IiwiaW5kaXZpZHVhbC1jb2xsZWN0aW9uMyIsImhvbWUtcGFnZS1taW5kbWFwLXZpZXctNSIsImluZGl2aWR1YWwtY29sbGVjdGlvbjciLCJob21lLXBhZ2UtbGlzdC12aWV3IiwiaG9tZS1wYWdlLW1pbmRtYXAtdmlldy04IiwiaW5kaXZpZHVhbC1jb2xsZWN0aW9uNCIsImluZGl2aWR1YWwtY29sbGVjdGlvbjYiLCJpbmRpdmlkdWFsLWNvbGxlY3Rpb24iLCJpbmRpdmlkdWFsLWNvbGxlY3Rpb241IiwiaG9tZS1wYWdlLW1pbmRtYXAtdmlldy05IiwiaW5kaXZpZHVhbC1jb2xsZWN0aW9uMiIsImhvbWUtcGFnZS1tYXAtdmlldy02IiwiaG9tZS1wYWdlLW1hcC12aWV3LTciLCJvdXRzaWRlLXdlYnNpdGUiLCJpbmRpdmlkdWFsLWNvbGxlY3Rpb24tOCIsImxhbmRpbmctcGFnZSIsImhvbWUtcGFnZS1tYXAtdmlldy00IiwiaG9tZS1wYWdlLW1pbmRtYXAtdmlldy02IiwiaG9tZS1wYWdlLW1pbmRtYXAtdmlldy03IiwibWFjYm9vay1haXItMSIsImZyYW1lLTgiXQ==)
